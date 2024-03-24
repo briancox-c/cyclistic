@@ -4,7 +4,7 @@ Cyclistic Bikeshare Analyisis:<br>Comparing usage between members and non-member
 
 # Purpose
 
-This project is a part of the capstone assignment for the **Google Data Analytics certification.**  It addresses the data cleaning and exploratory portions of the analysis.  An annotated report of these phases is [here](briancox-c.github.io/cyclistic)
+This project is a part of the capstone assignment for the **Google Data Analytics certification.**  It addresses the data cleaning and exploratory portions of the analysis.  An annotated report of these phases is [here](https://briancox-c.github.io/cyclistic)
 
 The final visualization of the analysis is on [Tableau Public](https://public.tableau.com/views/CyclisticStory_17111282404990/Cyclistic?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
